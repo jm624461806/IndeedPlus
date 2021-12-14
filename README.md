@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# Heroku link: job5610.herokuapp.com
+# Getting Started with Create React App (IndeedPlus APP)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+This project provides features like user login/logout, search job, CRUD job, keep favorite jobs in record. 
 
 ## Available Scripts
 
