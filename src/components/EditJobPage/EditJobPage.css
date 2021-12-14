@@ -1,0 +1,21 @@
+.buttonGroups {
+    display: flex;
+    gap: 40px;
+}
+
+.buttonGroups .btn-light {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.buttonGroups .btn-light:hover {
+    background-color: #adb5bd;
+    border: 1px solid #adb5bd;
+}
+
+@media(max-width: 540px) {
+    .buttonGroups .btn-light {
+       padding-left: 5px;
+       padding-right: 5px;
+    }
+}

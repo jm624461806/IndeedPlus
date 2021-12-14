@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Readex+Pro:wght@600&display=swap');
+
+.ResultTitle {
+    text-align: center;
+    padding-top: 100px;
+    font-family: 'Readex Pro', sans-serif;
+    color: #282a37;
+}
+
+.JobList {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 50%;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 100px;
+}
+
+
